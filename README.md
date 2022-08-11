@@ -96,10 +96,10 @@ for our developers, users and anyone who comes into contact with ([Linkspreed ðŸ
 
 
 ### Welcome to Web5
-<img align="center" alt="Web5" width="3000px" src="https://github.com/linkspreed/Web5/blob/main/Screenshots/1.png" draggable="false" />
+<img align="center" alt="Web5" width="3000px" src="https://github.com/linkspreed/Web5/blob/main/Screenshots/1.PNG" draggable="false" />
 
 ### Get it all :)
-<img align="center" alt="Web5" width="3000px" src="https://github.com/linkspreed/Web5/blob/main/Screenshots/2.png" draggable="false" />
+<img align="center" alt="Web5" width="3000px" src="https://github.com/linkspreed/Web5/blob/main/Screenshots/2.PNG" draggable="false" />
 
 ### Ready to start?
-<img align="center" alt="Web5" width="3000px" src="https://github.com/linkspreed/Web5/blob/main/Screenshots/3.png" draggable="false" />
+<img align="center" alt="Web5" width="3000px" src="https://github.com/linkspreed/Web5/blob/main/Screenshots/3.PNG" draggable="false" />
