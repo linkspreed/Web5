@@ -1,11 +1,11 @@
 # <img align="left" alt="Web5" width="100px" src="https://web5.cf/system/eed717db-8549-4562-806a-dc166d2f81ff.png" draggable="false" /> Web5 ([Click to try 🚀](https://web5.cf/))
 
-Sharenode🌿 - the new, super fast ⚡️and intelligent 📚cloud without borders☁️✨
+Web5 Cloud ☁️ - A decentralized cloud for storing 📂 files anonymously in a decentralized network 🌐
 
 
-## **[Changelog 🌱](https://github.com/linkspreed/sharenode/blob/main/changelog.md)** **Check out the full ShareNode changelog**
-## **[Special Works 👨‍💻](https://github.com/linkspreed/sharenode/blob/main/Special_Works.md)** **Take a look at what changes we are doing to ShareNode besides development**
-## **[API](https://github.com/linkspreed/ShareNode_API)** **Check out the full ShareNode API**
+## **[Changelog 📂](https://github.com/linkspreed/Web5/blob/main/changelog.md)** **Check out the full Web5 changelog**
+## **[Special Works 👨‍💻](https://github.com/linkspreed/Web5/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Web5 besides development**
+## **[API](https://github.com/linkspreed/Web5_API)** **Check out the full Web5 API**
 
 
 <div align="center">
