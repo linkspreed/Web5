@@ -1,3 +1,6 @@
+# 11.08.2022
+ - We're making some small changes to the Web5 landing page.
+
 # 03.07.2022 
  - We released the new version 2.2.0.11. The full list of changes can be found in the changelog.
 
