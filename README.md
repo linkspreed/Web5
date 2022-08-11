@@ -14,17 +14,20 @@ Web5 Cloud ☁️ - A decentralized cloud for storing 📂 files anonymously in 
 
 # Core Functionalities
 
+## Decentralization
+At Web5, your files are not stored in a single data center. They are located in a decentralized network and are stored securely and encrypted on computers all over the world.
+
 ## Meticulously Designed User Interface & User Experience
-In last year of ShareNode evolution with help of our users, we spend a lot of time designing gorgeous looking user interface and seamless user experience with our file management frontend. We advocate simplicity and usability.
+In last year of Web5 evolution with help of our users, we spend a lot of time designing gorgeous looking user interface and seamless user experience with our file management frontend. We advocate simplicity and usability.
 
 ## Responsive
-Meticulously optimized mobile version of ShareNode, we just love how nice and easy are all components working. Mobile responsive version should be nice and usable as his bigger desktop brother.
+Meticulously optimized mobile version of Web5, we just love how nice and easy are all components working. Mobile responsive version should be nice and usable as his bigger desktop brother.
 
 ## Upload Files
-With ShareNode you can upload files up to tens of gigabytes, don’t worry that your big files won’t be uploaded. We support chunk upload and multipart uploads for your storage. All work seamlessly.
+With Web5 you can upload files up to tens of gigabytes, don’t worry that your big files won’t be uploaded. We support chunk upload and multipart uploads for your storage. All work seamlessly.
 
 ## Folder Upload
-For ShareNode it isn’t any problem to upload a folder with your files. The same folder structure will be recreated in the app.
+For Web5 it isn’t any problem to upload a folder with your files. The same folder structure will be recreated in the app.
 
 ## Sharing Files
 With our reach sharing functionalities, you can easily just click on your file or folder, and generate a shared link for everyone. Also you can protect your shared files with your password. 
@@ -52,7 +55,7 @@ All important events that occur in your account will be recorded in your notific
 With Storj DCS (Decentralized Cloud Storage) files aren’t stored in centralized data centers — instead, they’re encrypted, split into pieces, and distributed on a global cloud network.
 
 ## Full-Fledged API
-You can integrate ShareNode into your app seamlessly. You can generate authentication tokens in your profile settings. Documentation for API will come soon.
+You can integrate Web5 into your app seamlessly. You can generate authentication tokens in your profile settings. Documentation for API will come soon.
 
 ## 2-Factor Verification
 Another layer of security to make sure your files are secured. Users can set up 2 factor verification with their favourite authenticator app.
@@ -61,7 +64,7 @@ Another layer of security to make sure your files are secured. Users can set up 
 Log into your app with your social account. Currently we support Google. More is coming soon.
 
 ## Customizable Folder Icons
-Set your favourite emoji to your folder as an icon and make ShareNode more personal for you! If you are an Apple user, you can switch between Apple emojis and Tweemojis from twitter.
+Set your favourite emoji to your folder as an icon and make Web5 more personal for you! If you are an Apple user, you can switch between Apple emojis and Tweemojis from twitter.
 
 ## Dark Mode
 We support dark mode natively. Users can set dark mode via application, or let Dark/Light mode handle with preferred OS settings.
@@ -76,7 +79,7 @@ You can drag your files or folder to another folder seamlessly
 
 ## More
  
-ShareNode is **free**, **real-time** and with **unlimited** resources 
+Web5 is **free**, **real-time** and with **unlimited** resources 
 for developers around the world.
 
 Our focus is on **usability** and **security** 
@@ -87,16 +90,16 @@ for our developers, users and anyone who comes into contact with ([Linkspreed �
     is developed properly so that 
     the platform works as well as possible.
 ```
- You can enjoy ShareNode freely and use all features to an unlimited extent.
+ You can enjoy Web5 freely and use all features to an unlimited extent.
 
 ## 📷 UI
 
 
-### Welcome to ShareNode
-<img align="center" alt="ShareNode" width="3000px" src="https://github.com/linkspreed/sharenode/blob/main/Screenshots/1.png" draggable="false" />
+### Welcome to Web5
+<img align="center" alt="Web5" width="3000px" src="https://github.com/linkspreed/Web5/blob/main/Screenshots/1.png" draggable="false" />
 
-### Share + Node :)
-<img align="center" alt="ShareNode" width="3000px" src="https://github.com/linkspreed/sharenode/blob/main/Screenshots/2.png" draggable="false" />
+### Get it all :)
+<img align="center" alt="Web5" width="3000px" src="https://github.com/linkspreed/Web5/blob/main/Screenshots/2.png" draggable="false" />
 
 ### Ready to start?
-<img align="center" alt="ShareNode" width="3000px" src="https://github.com/linkspreed/sharenode/blob/main/Screenshots/3.png" draggable="false" />
+<img align="center" alt="Web5" width="3000px" src="https://github.com/linkspreed/Web5/blob/main/Screenshots/3.png" draggable="false" />
