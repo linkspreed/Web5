@@ -1,3 +1,7 @@
+# 15.08.2022
+ - Web5.cf is now an official site of ours. 
+ - We are finished with the developments, but we are constantly improving the site.
+
 # 11.08.2022
  - We're making some small changes to the Web5 landing page.
 
