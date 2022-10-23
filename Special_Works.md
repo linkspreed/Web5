@@ -1,3 +1,6 @@
+### 23.10.2022 (announcement)
+- We will release a major update for this cloud in the coming weeks.
+
 # 15.08.2022
  - Web5.cf is now an official site of ours. 
  - We are finished with the developments, but we are constantly improving the site.
