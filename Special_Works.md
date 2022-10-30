@@ -1,5 +1,5 @@
 ### 30.10.2022 (announcement Web5)
--  https://github.com/linkspreed/Web5/blob/main/changelog.md
+- https://github.com/linkspreed/Web5/blob/main/changelog.md
 - The entire changelog is now available on Github.
 
 ### 30.10.2022 (announcement Web5)
