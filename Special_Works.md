@@ -1,7 +1,14 @@
-### 27.10.2022
+### 30.10.2022 (announcement Web5)
+- The time has come! 🚀
+- We are now releasing version 2.2.7 for the following clouds ☁️: 
+- ✅ Web5, 
+- ✅ ShareNode and 
+- ✅ IceCloud
+
+### 27.10.2022 (announcement Web5)
 - The release date of the new version is getting closer.
 
-### 23.10.2022 (announcement)
+### 23.10.2022 (announcement Web5)
 - We will release a major update for this cloud in the coming weeks.
 
 # 15.08.2022
