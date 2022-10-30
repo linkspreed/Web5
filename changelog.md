@@ -1,3 +1,49 @@
+## Version 2.2.7
+#### Release date: 30. Oct 2022
+- We fixed some bugs.
+- Improvement in the performance.
+
+## Version 2.2.6
+#### Release date: 30. Oct 2022
+- Minor updates.
+
+## Version 2.2.5
+#### Release date: 30. Oct 2022
+- improved tracking for Google Analytics
+
+## Version 2.2.4
+#### Release date: 30. Oct 2022
+- Account verification email is now sending in preferred app language
+- Fixed issue where metered billing mode still count in some cases members after team folder was deleted
+- In case if cron isn't set, in Settings/Server tab you will see suggestions for cron command
+
+## Version 2.2.3
+#### Release date: 30. Oct 2022
+- Subscription module is now available for Regular license type 
+
+## Version 2.2.2
+#### Release date: 30. Oct 2022
+- Fixed issue when email wasn't sent in active app language
+- Fixed issue with subscription module loading
+
+## Version 2.2.1
+#### Release date: 30. Oct 2022
+### New Usage Restriction Rules for User Accounts for Metered Billing
+- Allow limiting max usage before users will be forced to increase balance in first month of account existence
+- Force users to increase balance when usage is bigger than their current balance
+
+#### Release date: 30. Oct 2022
+- Fixed reCaptcha for the contact form
+
+## Version 2.2.0.13
+#### Release date: 30. Oct 2022
+- Extended login time up to 3 months
+- Fixed deleted at language string in grid view browsed in trash section
+
+- ## Version 2.2.0.12
+#### Release date: 30. Oct 2022
+- Fixed paystack transaction issue
+
 ## Version 2.2.0.11
 #### Release date: 03. Jul 2022
 - Added hint to set cron command in dashboard panel when cron is not set correctly
