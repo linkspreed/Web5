@@ -1,4 +1,7 @@
 ### 29.12.2022 (announcement Web5)
+- The storage bucket for **Web5** has been successfully changed! 😍🌱
+
+### 29.12.2022 (announcement Web5)
 - We are about to change the storage bucket for the **Web5** Cloud in our decentralized network. 🚀☁️
 
 ### 30.10.2022 (announcement Web5)
