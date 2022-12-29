@@ -1,4 +1,4 @@
-# <img align="left" alt="Web5" width="100px" src="<img src="https://user-images.githubusercontent.com/102324985/209991815-a4e12e6d-9350-4165-ad68-b8a9be140adb.png" draggable="false" /> Web5 ([Click to try 🚀](https://web5.cf/)) - Decentralized
+# <img align="left" alt="Web5" width="100px" src="https://user-images.githubusercontent.com/102324985/209991815-a4e12e6d-9350-4165-ad68-b8a9be140adb.png" draggable="false" /> Web5 ([Click to try 🚀](https://web5.cf/)) - Decentralized
 
 Web5 Cloud ☁️ - A decentralized cloud for storing 📂 files anonymously in a decentralized network 🌐
 
