@@ -1,3 +1,6 @@
+### 29.12.2022 (announcement Web5)
+- We are about to change the storage bucket for the **Web5** Cloud in our decentralized network. 🚀☁️
+
 ### 30.10.2022 (announcement Web5)
 - https://github.com/linkspreed/Web5/blob/main/changelog.md
 - The entire changelog is now available on Github.
