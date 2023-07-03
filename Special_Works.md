@@ -1,3 +1,6 @@
+### 03.07.2023 (announcement Web5)
+- 🌐 Exciting news! We've added #Web5 to our subdomain system. Check out the new link: https://web5.linkspreed.com 🚀 Don't worry, nothing changes for you! It's all happening seamlessly in the background. 👩‍💻👨‍💻 Have you already explored the enhanced platform? Let us know! #Upgrade #WeAreHereForYou
+
 ### 29.12.2022 (announcement Web5)
 - We successfully and quickly fixed the **Web5** icon problem that resulted from the bucket change.
 
